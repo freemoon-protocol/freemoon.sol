@@ -1,2 +1,0 @@
-# freemoon.sol
-smart-contract
